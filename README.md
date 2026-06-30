@@ -6,3 +6,12 @@ Markdown
 
 Bem-vindo ao meu currículo web. Conecte-se comigo:
 * [E-mail](mailto:josedalto@gmail.com)
+
+## Minhas Habilidades
+
+| Categoria | Tecnologias | Proficiência |
+| :--- | :--- | :---: |
+| **Linguagens** | SQL, JS, Node.js, Python, C#, C++ (Arduino), PHP | Avançado |
+| **Ferramentas** | VS Code, Git, GitHub | Intermediário |
+| **Sistemas** | Linux, Windows, macOS | Avançado |
+
